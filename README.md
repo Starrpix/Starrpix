@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🔭 I’m currently working on PHP Plugins
+- 🌱 I’m currently learning C++ & PHP Plugins
+- 👯 I’m looking to collaborate on Wordpress Plugins
+- 🤔 I’m looking for help with learning PHP
+- 📫 How to reach me: itzarbin@gmail.com
+
+[![An image of @starrpix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/starrpix)](https://holopin.io/@starrpix)
 
 <!--
 **Starrpix/Starrpix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
