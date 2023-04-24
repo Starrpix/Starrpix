@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on PHP Plugins
-- 🌱 I’m currently learning C++ & PHP Plugins
+- 🔭 I’m currently stumbling upon errors
+- 🌱 I’m currently learning C++ & PHP
 - 👯 I’m looking to collaborate on Wordpress Plugins
-- 🤔 I’m looking for help with learning PHP
+- 🤔 I’m looking for help with learning WP.
 - 📫 How to reach me: itzarbin@gmail.com
 
 [![An image of @starrpix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/starrpix)](https://holopin.io/@starrpix)
