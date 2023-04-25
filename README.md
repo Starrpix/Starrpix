@@ -14,10 +14,15 @@
  ### **Tools and Technology I Am Familiar With**
 <br>
 
-<code><img src="https://img.icons8.com/color/96/null/git.png"/></code>
-<code><img src="https://img.icons8.com/fluency/96/null/c-plus-plus-logo.png"/></code>
-<code><img src="https://img.icons8.com/color/96/null/javascript--v1.png"/></code>
-<code><img src="https://img.icons8.com/color/96/null/bootstrap.png"/></code>
+<code><img height=70 width=70 src="https://img.icons8.com/color/96/null/git.png"/></code>
+<code><img height=70 width=70 src="https://img.icons8.com/officel/512/php-logo.png"/></code>
+<code><img height=70 width=70 src="https://img.icons8.com/fluency/96/null/c-plus-plus-logo.png"/></code>
+<code><img height=70 width=70 src="https://img.icons8.com/fluency/512/laravel.png"/></code>
+<code><img height=70 width=70 src="https://img.icons8.com/color/512/html-5--v1.png"/></code>
+<code><img height=70 width=70 src="https://img.icons8.com/color/512/css3.png"/></code>
+<code><img height=70 width=70 src="https://img.icons8.com/color/512/tailwindcss.png"/></code>
+<code><img height=70 width=70 src="https://img.icons8.com/color/96/null/bootstrap.png"/></code>
+<code><img height=70 width=70 src="https://img.icons8.com/color/96/null/javascript--v1.png"/></code>
 <hr/>
 
 
