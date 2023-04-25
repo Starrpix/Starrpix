@@ -5,11 +5,12 @@
 - 👯 I’m looking to collaborate on Wordpress Plugins
 - 🤔 I’m looking for help with learning WP.
 - 📫 How to reach me: itzarbin@gmail.com
-<hr />
+
 [![An image of @starrpix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/starrpix)](https://holopin.io/@starrpix)
 
 <hr />
- ### **Tools and Technology I Know.**
+
+ ### **Tools and Technology I Am Familiar With**
 <br>
 
 <code><img src="https://img.icons8.com/color/96/null/git.png"/></code>
@@ -18,8 +19,8 @@
 <code><img src="https://img.icons8.com/color/96/null/bootstrap.png"/></code>
 <hr/>
 
-<hr />
- ### **Some Frameworks And Platforms I Am Familier With**
+
+ ### **Some Frameworks And Platforms I Am Familiar With**
 <br>
 <code><img src="https://img.icons8.com/fluency/96/null/visual-studio-code-2019.png"/></code>
 <code><img src="https://img.icons8.com/plasticine/100/000000/github-squared.png"/></code>
@@ -30,8 +31,9 @@
    <img align="center" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Starrpix&theme=dark&background=000000)](https://git.io/streak-stats)layout=compact" />
 <!--    <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />  -->
 </p>
-<hr />
-Languages used in my repos
+
+### **Languages being used in my Repositories**
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starrpix&layout=compact)](https://github.com/Starrpix/github-readme-stats)
 
 <hr />
