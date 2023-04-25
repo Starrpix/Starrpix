@@ -7,10 +7,53 @@
 
 [![An image of @starrpix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/starrpix)](https://holopin.io/@starrpix)
 
+ ### **Tools and Technology I Knows.**
+<br>
 
-### :fire: My Stats :
+<code><img src="https://img.icons8.com/color/96/null/git.png"/></code>
+<code><img src="https://img.icons8.com/fluency/96/null/c-plus-plus-logo.png"/></code>
+<code><img src="https://img.icons8.com/color/96/null/javascript--v1.png"/></code>
+<code><img src="https://img.icons8.com/color/96/null/bootstrap.png"/></code>
+<hr/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Starrpix&theme=dark&background=000000)](https://git.io/streak-stats)
+ ### **Some Frameworks And Platforms I Am Familier With**
+<br>
+<code><img src="https://img.icons8.com/fluency/96/null/visual-studio-code-2019.png"/></code>
+<code><img src="https://img.icons8.com/plasticine/100/000000/github-squared.png"/></code>
+
+
+
+<p align="center">
+   <img align="center" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Starrpix&theme=dark&background=000000)](https://git.io/streak-stats)layout=compact" />
+<!--    <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />  -->
+</p>
+<h3>
+ <details>
+<summary>📊 Github Stats</summary>
+<h3/>
+<p align="center">
+  <br>
+ <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Starrpix&theme=blue-green" />
+  <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Starrpix&show_icons=true&theme=blue-green&line_height=21"/>
+    <br>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Starrpix&theme=dracula" alt="Rishabh's github trophy"/>
+
+
+</details>
+
+<br>
+<h3 align="center">
+ Spread ❤️ by starring some of the repositories!
+</h3>
+<br>
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/Starrpix/count.svg" />
+</h3>
+
+
+
 
 
 <!--
