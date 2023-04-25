@@ -35,7 +35,8 @@
   <br>
  <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Starrpix&theme=blue-green" />
   <br>
-<img align="center" src="![Starrpix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starrpix&show_icons=true&theme=transparent)"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+"/>
     <br>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Starrpix&theme=dracula" alt="Starrpix Github Trophy"/>
 
