@@ -1,5 +1,6 @@
 ### Hi there 👋
 <hr />
+
 - 🔭 I’m currently stumbling upon errors
 - 🌱 I’m currently learning C++ & PHP
 - 👯 I’m looking to collaborate on Wordpress Plugins
