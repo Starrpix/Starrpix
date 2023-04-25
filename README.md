@@ -7,7 +7,7 @@
 
 [![An image of @starrpix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/starrpix)](https://holopin.io/@starrpix)
 
- ### **Tools and Technology I Knows.**
+ ### **Tools and Technology I Know.**
 <br>
 
 <code><img src="https://img.icons8.com/color/96/null/git.png"/></code>
@@ -35,9 +35,9 @@
   <br>
  <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Starrpix&theme=blue-green" />
   <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Starrpix&show_icons=true&theme=blue-green&line_height=21"/>
+<img align="center" src="![Starrpix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starrpix&show_icons=true&theme=transparent)"/>
     <br>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=Starrpix&theme=dracula" alt="Rishabh's github trophy"/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Starrpix&theme=dracula" alt="Starrpix Github Trophy"/>
 
 
 </details>
