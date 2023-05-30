@@ -38,9 +38,6 @@
 <!--    <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />  -->
 </p>
 
-### **Languages being used in my Repositories**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starrpix&layout=compact)](https://github.com/Starrpix/github-readme-stats)
 
 <hr />
 <h3>
