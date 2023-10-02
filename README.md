@@ -2,12 +2,7 @@
 
 I'm [Starrpix](https://github.com/Starrpix), and I'm a passionate learner in the world of programming. Here are a few things about me:
 
-- 🔭 I’m currently exploring and learning new concepts, and occasionally stumbling upon some tricky errors along the way!
-- 🌱 My current focus is on mastering C++ and PHP to build powerful applications and websites.
-- 👯 I’m excited to collaborate on WordPress Plugins, as I believe in the potential of WordPress to create scalable and feature-rich websites.
-- 🤔 I’m always open to learning and seeking help with understanding the intricacies of WordPress, so if you have any insights or tips, feel free to share!
-- 📫 You can reach me at itzarbin@gmail.com. I'm always eager to connect and discuss new ideas.
-
+- I am currently learning fundamentals of blockchain.
 ![An image of @starrpix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/starrpix)
 
 <hr/>
