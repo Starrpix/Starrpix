@@ -32,23 +32,12 @@ I'm [Starrpix](https://github.com/Starrpix), and I'm a passionate learner in the
 
 <hr/>
 
-<p align="center">
-  <img align="center" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Starrpix&theme=dark&background=000000)](https://git.io/streak-stats)layout=compact" />
-</p>
+
 
 <hr/>
 
-<h3 align="center">
-  <details>
-    <summary>📊 Github Stats</summary>
-  </details>
-</h3>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Starrpix&theme=blue-green" />
-  <br>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Starrpix&theme=dracula" alt="Starrpix Github Trophy"/>
-</p>
+
 
 <br>
 
