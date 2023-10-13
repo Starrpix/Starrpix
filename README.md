@@ -3,6 +3,10 @@
 I'm [Starrpix](https://github.com/Starrpix), and I'm a passionate learner in the world of programming. Here are a few things about me:
 
 - I am currently learning fundamentals of blockchain.
+- I am currently learning etherum basics.
+- Along with basics of cryptography.
+
+
 ![An image of @starrpix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/starrpix)
 
 <hr/>
