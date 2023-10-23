@@ -36,7 +36,9 @@ I'm [Starrpix](https://github.com/Starrpix), and I'm a passionate learner in the
 
 <hr/>
 
+<center>
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Starrpix)](https://github.com/Starrpix/github-readme-stats)
+</center>
 
 <hr/>
 
