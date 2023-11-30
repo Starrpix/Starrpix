@@ -1,7 +1,7 @@
 ## Hello there! 👋
 
 I'm [Starrpix](https://github.com/Starrpix)
-With some breeze through of Blockchain Fundamentals , along with Ethereum. I am starting to focus on Smart Contracts. 
+With some breeze learning through Blockchain Fundamentals , along with Ethereum. I am starting to focus on Smart Contracts. 
 There will be occasional JS to explore more on react , nodejs and such but the main focus will remain on Blockchain domain.
 
 
