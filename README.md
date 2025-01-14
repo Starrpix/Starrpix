@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the web.<br>👯 I’m looking to collaborate on interesting projects.<br>🤝 I’m looking for help with learning APIs.<br>🌱 I’m currently learning js.<br>💬 Ask me about Ethereum.
+🔭 I’m currently working on the oblivion.<br>👯 I’m looking to collaborate on interesting projects.<br>🤝 I’m looking for help with learning APIs.<br>🌱 I’m currently learning js.<br>💬 Ask me about Cryptology.
 
 
 ## 🌐 Socials:
