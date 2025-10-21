@@ -18,6 +18,9 @@
 ### Daily Dev Stats:
 <a href="https://app.daily.dev/arbinchhatkuli"><img src="https://api.daily.dev/devcards/v2/p5iRvGhYcrKL9mcf2AJzb.png?r=j1j&type=default" width="356" alt="Arbin Chhatkuli's Dev Card"/></a>
 
+### Holopin:
+[![An image of @starrpix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/starrpix)](https://holopin.io/@starrpix)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Starrpix&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
