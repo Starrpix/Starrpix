@@ -1,5 +1,5 @@
 # 💫 About Me:
->🤝 Jack of all Trades, Master of noen. <br> Learning Java & CCNA <br> 💬 Ask me about Cryptology.
+>🤝 Networking + Security (Focused on Crypto)
 
 
 ## 🌐 Socials:
